@@ -1,0 +1,6 @@
+service:
+  name: service_aws_lambda_f1e0
+  identifier: service_aws_lambda_f1e0
+  serviceDefinition:
+    type: AwsLambda
+    spec: {}
