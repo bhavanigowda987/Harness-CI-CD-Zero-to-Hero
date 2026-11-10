@@ -1,0 +1,8 @@
+environment:
+  name: environment_env_dev
+  identifier: environment_env_dev
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: Harness_ci_cd
